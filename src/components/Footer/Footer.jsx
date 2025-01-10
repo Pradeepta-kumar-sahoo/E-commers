@@ -53,8 +53,7 @@ const Footer = () => {
               ShopMe
             </h1>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum in
-              beatae ea recusandae blanditiis veritatis.
+            ShopMe is your ultimate online shopping destination offering a wide range of high-quality products at great prices. From fashion and accessories to home essentials and electronics, we provide an easy and convenient shopping experience. Enjoy exclusive discounts, fast delivery, and exceptional customer service. Shop with us for a seamless and enjoyable shopping experience!
             </p>
           </div>
 
@@ -112,7 +111,7 @@ const Footer = () => {
               <div className="mt-6">
                 <div className="flex items-center gap-3">
                   <FaMapLocationDot />
-                  <p>Indore, Madhya Pradesh</p>
+                  <p>Bhubaneswar, Odisha</p>
                 </div>
                 <div className="flex items-center gap-3 mt-3">
                   <IoCall />

@@ -4,26 +4,26 @@ import Slider from "react-slick";
 const TestimonialData = [
   {
     id: 1,
-    name: "Victor",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+    name: "Sarah W",
+    text: "I absolutely love the quality and design of the products! The customer service was exceptional, and my order arrived on time. Highly recommend!",
     img: "https://picsum.photos/101/101",
   },
   {
     id: 2,
-    name: "Satya Nadella",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+    name: "James P",
+    text: "Amazing experience! The products exceeded my expectations, and I’ll definitely be returning for more. Great deals too!",
     img: "https://picsum.photos/102/102",
   },
   {
     id: 3,
-    name: "Virat Kohli",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+    name: "Emily T",
+    text: "The website was easy to navigate, and the shopping experience was seamless. Plus, I got my items delivered quickly. Very happy with my purchase!",
     img: "https://picsum.photos/104/104",
   },
   {
     id: 5,
-    name: "Sachin Tendulkar",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+    name: " Michael L",
+    text: "Fantastic service and a great selection of products! I was able to find exactly what I was looking for. I'll be back for sure!",
     img: "https://picsum.photos/103/103",
   },
 ];
@@ -79,8 +79,7 @@ const Testimonials = () => {
             Testimonials
           </h1>
           <p data-aos="fade-up" className="text-xs text-gray-400">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit
-            asperiores modi Sit asperiores modi
+          See what our satisfied customers have to say! Our testimonials section highlights positive feedback from clients who have experienced the quality of our products and services. Read real stories from real people and discover why we're their trusted choice.
           </p>
         </div>
 

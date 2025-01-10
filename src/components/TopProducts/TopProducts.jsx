@@ -39,9 +39,10 @@ const TopProducts = ({ handleOrderPopup }) => {
           <h1 data-aos="fade-up" className="text-3xl font-bold">
             Best Products
           </h1>
-          <p data-aos="fade-up" className="text-xs text-gray-400">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit
-            asperiores modi Sit asperiores modi
+          <p data-aos="fade-up" className="text-xs text-gray-400 w-96">
+          Discover the finest quality products designed to meet your needs and exceed your expectations. 
+          Our curated collection offers durability, functionality, and style, ensuring satisfaction with every purchase. 
+          Experience the perfect balance of performance and design, making every product a standout choice for you.
           </p>
         </div>
         {/* Body section */}

@@ -61,8 +61,7 @@ const Products = () => {
             Products
           </h1>
           <p data-aos="fade-up" className="text-xs text-gray-400">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit
-            asperiores modi Sit asperiores modi
+            Elegant and comfortable dresses designed to fit every occasion. Available in a range of styles and sizes, perfect for casual outings, parties, or formal events. Crafted with high-quality fabric for a stylish, flattering look. Shop now for a timeless addition to your wardrobe!
           </p>
         </div>
         {/* Body section */}
